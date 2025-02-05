@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crested Geckos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            width: 100%;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>All About Crested Geckos</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Correlophus_ciliatus_-_captive_adult_male_%282016%29.jpg" alt="Crested Gecko">
+        <p>Crested geckos (Correlophus ciliatus) are small, arboreal geckos native to New Caledonia. They are popular pets due to their ease of care, unique appearance, and docile nature.</p>
+        <h2>Basic Care</h2>
+        <ul>
+            <li><strong>Housing:</strong> A vertical terrarium with plenty of climbing surfaces.</li>
+            <li><strong>Temperature & Humidity:</strong> 72-78°F with 50-70% humidity.</li>
+            <li><strong>Diet:</strong> Specialized crested gecko food, supplemented with insects.</li>
+            <li><strong>Handling:</strong> Gentle and limited to avoid stress.</li>
+        </ul>
+        <p>Interested in getting one? Be sure to research thoroughly and provide the best care possible!</p>
+    </div>
+</body>
+</html>
